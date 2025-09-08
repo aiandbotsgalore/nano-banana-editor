@@ -1,0 +1,5 @@
+{
+  "name": "Nano Banana AI Image Editor",
+  "description": "An intuitive, browser-based AI image editing app powered by Google Gemini. Upload an image, mask the area you want to change, describe your edit, and watch the magic happen! Features an A/B comparison tool to see your creation come to life.",
+  "requestFramePermissions": []
+}
